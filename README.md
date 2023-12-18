@@ -1,3 +1,3 @@
 # Siemens
 
-Soluções do curso de verificação e design digital da Siemens.
+Soluções do curso: Introduction to System Verilog - Siemens.
