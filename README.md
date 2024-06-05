@@ -1,3 +1,3 @@
 # Siemens
 
-Soluções do curso: Introduction to System Verilog - Siemens.
+Course solutions: Introduction to System Verilog - Siemens.
